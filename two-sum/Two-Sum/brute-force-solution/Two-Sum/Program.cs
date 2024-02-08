@@ -17,3 +17,10 @@ int[] TwoSum(int[] nums, int target)
 Console.WriteLine("Os índices do array que somados resultam no target é: " + string.Join(", ", TwoSum([1, 2, 7, 10, 23], 9)));
 
 //Console.WriteLine("Resultado: " + TwoSum([1, 2, 7, 10, 23], 9));
+
+//Testando Bug do git
+
+public class Test
+{
+	bool test = true;
+}

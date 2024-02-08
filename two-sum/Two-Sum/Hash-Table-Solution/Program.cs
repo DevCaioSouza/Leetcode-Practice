@@ -1,18 +1,34 @@
 ﻿
 int[] TwoSum(int[] nums, int target)
 {
+	Dictionary<int, int> dict = new Dictionary<int, int>();
 	// Supondo que passamos TwoSum([1, 2, 7, 10, 23], 9))
 	// o Dictionary ficaria dessa forma
 
 	// {
-	//     0: 8 ("traduzindo: na posição 0 falta 8 pro target)
-	//     1: 7
-	//     2: 0  -> Quando o número da direita chega a zero, encontramos os 2 índices que precisavamos
+	//    TKey , TValue (remaining)
+	//     1 :   8 (traduzindo: na posição onde o valor é 1 falta 8 pro target)
+	//     2 :   7
+	//     7 :   2  -> o remaining aqui é o mesmo "valor" de uma TKey que já existe na tabela
 	// }
 
+	for (int i = 0; i < nums.Length; i++)
+	{
+		int remaining = target - nums[i];
+
+		if (dict.ContainsKey(remaining))
+		{
+			return new int[] { dict[remaining], i };
+		} else
+		{
+			dict[nums[i]] = i;
+		}
+	}
 
 	throw new Exception("");
 }
+
+Console.WriteLine("Resposta: " + string.Join(", ", TwoSum([1, 2, 7, 10, 23], 9)));
 
 //**********************************************************************************************
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programação 2024\\Leetcode\\Leetcode-Practice\\two-sum\\Two-Sum\\Hash-Table-Solution\\Hash-Table-Solution\\Hash-Table-Solution.csproj": {}
+    "D:\\Programação 2024\\Leetcode\\Leetcode-Practice\\two-sum\\Two-Sum\\Hash-Table-Solution\\Hash-Table-Solution.csproj": {}
   },
   "projects": {
-    "D:\\Programação 2024\\Leetcode\\Leetcode-Practice\\two-sum\\Two-Sum\\Hash-Table-Solution\\Hash-Table-Solution\\Hash-Table-Solution.csproj": {
+    "D:\\Programação 2024\\Leetcode\\Leetcode-Practice\\two-sum\\Two-Sum\\Hash-Table-Solution\\Hash-Table-Solution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programação 2024\\Leetcode\\Leetcode-Practice\\two-sum\\Two-Sum\\Hash-Table-Solution\\Hash-Table-Solution\\Hash-Table-Solution.csproj",
+        "projectUniqueName": "D:\\Programação 2024\\Leetcode\\Leetcode-Practice\\two-sum\\Two-Sum\\Hash-Table-Solution\\Hash-Table-Solution.csproj",
         "projectName": "Hash-Table-Solution",
-        "projectPath": "D:\\Programação 2024\\Leetcode\\Leetcode-Practice\\two-sum\\Two-Sum\\Hash-Table-Solution\\Hash-Table-Solution\\Hash-Table-Solution.csproj",
+        "projectPath": "D:\\Programação 2024\\Leetcode\\Leetcode-Practice\\two-sum\\Two-Sum\\Hash-Table-Solution\\Hash-Table-Solution.csproj",
         "packagesPath": "C:\\Users\\Caio\\.nuget\\packages\\",
-        "outputPath": "D:\\Programação 2024\\Leetcode\\Leetcode-Practice\\two-sum\\Two-Sum\\Hash-Table-Solution\\Hash-Table-Solution\\obj\\",
+        "outputPath": "D:\\Programação 2024\\Leetcode\\Leetcode-Practice\\two-sum\\Two-Sum\\Hash-Table-Solution\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Caio\\AppData\\Roaming\\NuGet\\NuGet.Config",

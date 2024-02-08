@@ -25,7 +25,7 @@ int[] TwoSum(int[] nums, int target)
 		}
 	}
 
-	throw new Exception("");
+	throw new Exception("Not found");
 }
 
 Console.WriteLine("Resposta: " + string.Join(", ", TwoSum([1, 2, 7, 10, 23], 9)));

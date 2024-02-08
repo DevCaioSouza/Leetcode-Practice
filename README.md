@@ -1,4 +1,4 @@
 ##  Challenges we're working on so far
 
-# Two Sum
-# Sliding Window
+- Two Sum
+- Sliding Window

@@ -1,0 +1,15 @@
+D:\Programação 2024\Leetcode\leetcode-practice\sliding-window\Sliding-Window\Sliding-Window\bin\Debug\net8.0\Sliding-Window.exe
+D:\Programação 2024\Leetcode\leetcode-practice\sliding-window\Sliding-Window\Sliding-Window\bin\Debug\net8.0\Sliding-Window.deps.json
+D:\Programação 2024\Leetcode\leetcode-practice\sliding-window\Sliding-Window\Sliding-Window\bin\Debug\net8.0\Sliding-Window.runtimeconfig.json
+D:\Programação 2024\Leetcode\leetcode-practice\sliding-window\Sliding-Window\Sliding-Window\bin\Debug\net8.0\Sliding-Window.dll
+D:\Programação 2024\Leetcode\leetcode-practice\sliding-window\Sliding-Window\Sliding-Window\bin\Debug\net8.0\Sliding-Window.pdb
+D:\Programação 2024\Leetcode\leetcode-practice\sliding-window\Sliding-Window\Sliding-Window\obj\Debug\net8.0\Sliding-Window.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação 2024\Leetcode\leetcode-practice\sliding-window\Sliding-Window\Sliding-Window\obj\Debug\net8.0\Sliding-Window.AssemblyInfoInputs.cache
+D:\Programação 2024\Leetcode\leetcode-practice\sliding-window\Sliding-Window\Sliding-Window\obj\Debug\net8.0\Sliding-Window.AssemblyInfo.cs
+D:\Programação 2024\Leetcode\leetcode-practice\sliding-window\Sliding-Window\Sliding-Window\obj\Debug\net8.0\Sliding-Window.csproj.CoreCompileInputs.cache
+D:\Programação 2024\Leetcode\leetcode-practice\sliding-window\Sliding-Window\Sliding-Window\obj\Debug\net8.0\Sliding-Window.sourcelink.json
+D:\Programação 2024\Leetcode\leetcode-practice\sliding-window\Sliding-Window\Sliding-Window\obj\Debug\net8.0\Sliding-Window.dll
+D:\Programação 2024\Leetcode\leetcode-practice\sliding-window\Sliding-Window\Sliding-Window\obj\Debug\net8.0\refint\Sliding-Window.dll
+D:\Programação 2024\Leetcode\leetcode-practice\sliding-window\Sliding-Window\Sliding-Window\obj\Debug\net8.0\Sliding-Window.pdb
+D:\Programação 2024\Leetcode\leetcode-practice\sliding-window\Sliding-Window\Sliding-Window\obj\Debug\net8.0\Sliding-Window.genruntimeconfig.cache
+D:\Programação 2024\Leetcode\leetcode-practice\sliding-window\Sliding-Window\Sliding-Window\obj\Debug\net8.0\ref\Sliding-Window.dll

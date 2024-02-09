@@ -1,19 +1,33 @@
-﻿
+﻿// Solution for the problem Leetcode 1493: Longest Subarray of 1's After Deleting One Element
+// https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
 int LongestSubarray(int[] nums)
 {
-	int Size = nums.Length;
-
-	int Lo = 0;
-	int Hi = 0;
-
-	int Curr = 0;
-	int Max = 0;
+	int Start = 0;
 
 	int Zeroes = 0;
 
-	// Enquanto o hi for menor do que o size, vamos expandir
-	// Quando o Zeroes atingir >1, a janela vai contrair (o lo vai aumentar)
+	int LongestWindow = 0;
 
+	for (int i = 0; i < nums.Length; i++)
+	{
+		Zeroes += nums[i] == 0 ? 1 : 0;
 
-	return 10;
+		while (Zeroes > 1)
+		{
+			Zeroes -= nums[Start] == 0 ? 1 : 0;
+			Start++;
+
+		}
+
+		LongestWindow = Math.Max(LongestWindow, i - Start);
+
+	}
+
+	return LongestWindow;
 }
+
+Console.WriteLine("First Case: " + LongestSubarray([1, 1, 0, 1]));
+
+Console.WriteLine("Second Case: " + LongestSubarray([0, 1, 1, 1, 0, 1, 1, 0, 1]));
+
+Console.WriteLine("Third Case: " + LongestSubarray([1, 1, 1]));

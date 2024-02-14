@@ -1,0 +1,15 @@
+D:\Programação 2024\Leetcode\Leetcode-Practice\FindFirstPalindrome\FindFirstPalindrome\bin\Debug\net8.0\FindFirstPalindrome.exe
+D:\Programação 2024\Leetcode\Leetcode-Practice\FindFirstPalindrome\FindFirstPalindrome\bin\Debug\net8.0\FindFirstPalindrome.deps.json
+D:\Programação 2024\Leetcode\Leetcode-Practice\FindFirstPalindrome\FindFirstPalindrome\bin\Debug\net8.0\FindFirstPalindrome.runtimeconfig.json
+D:\Programação 2024\Leetcode\Leetcode-Practice\FindFirstPalindrome\FindFirstPalindrome\bin\Debug\net8.0\FindFirstPalindrome.dll
+D:\Programação 2024\Leetcode\Leetcode-Practice\FindFirstPalindrome\FindFirstPalindrome\bin\Debug\net8.0\FindFirstPalindrome.pdb
+D:\Programação 2024\Leetcode\Leetcode-Practice\FindFirstPalindrome\FindFirstPalindrome\obj\Debug\net8.0\FindFirstPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação 2024\Leetcode\Leetcode-Practice\FindFirstPalindrome\FindFirstPalindrome\obj\Debug\net8.0\FindFirstPalindrome.AssemblyInfoInputs.cache
+D:\Programação 2024\Leetcode\Leetcode-Practice\FindFirstPalindrome\FindFirstPalindrome\obj\Debug\net8.0\FindFirstPalindrome.AssemblyInfo.cs
+D:\Programação 2024\Leetcode\Leetcode-Practice\FindFirstPalindrome\FindFirstPalindrome\obj\Debug\net8.0\FindFirstPalindrome.csproj.CoreCompileInputs.cache
+D:\Programação 2024\Leetcode\Leetcode-Practice\FindFirstPalindrome\FindFirstPalindrome\obj\Debug\net8.0\FindFirstPalindrome.sourcelink.json
+D:\Programação 2024\Leetcode\Leetcode-Practice\FindFirstPalindrome\FindFirstPalindrome\obj\Debug\net8.0\FindFirstPalindrome.dll
+D:\Programação 2024\Leetcode\Leetcode-Practice\FindFirstPalindrome\FindFirstPalindrome\obj\Debug\net8.0\refint\FindFirstPalindrome.dll
+D:\Programação 2024\Leetcode\Leetcode-Practice\FindFirstPalindrome\FindFirstPalindrome\obj\Debug\net8.0\FindFirstPalindrome.pdb
+D:\Programação 2024\Leetcode\Leetcode-Practice\FindFirstPalindrome\FindFirstPalindrome\obj\Debug\net8.0\FindFirstPalindrome.genruntimeconfig.cache
+D:\Programação 2024\Leetcode\Leetcode-Practice\FindFirstPalindrome\FindFirstPalindrome\obj\Debug\net8.0\ref\FindFirstPalindrome.dll

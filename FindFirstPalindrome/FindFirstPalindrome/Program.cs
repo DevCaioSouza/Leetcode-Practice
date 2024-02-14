@@ -1,16 +1,32 @@
-﻿static string FirstPalindrome(string[] words)
+﻿//static string FirstPalindrome(string[] words)
+//{
+//	foreach (string w in words)
+//	{
+//		if (w == String.Join("", w.Reverse()))
+//		{
+//			return w;
+//		}
+//	}
+
+//	return "";
+//}
+
+static string FirstPalindrome(string[] words)
 {
-	foreach (string w in words)
+	for(int i = 0; i<words.Length; i++)
 	{
-		if (w == String.Join("", w.Reverse()))
+		string wordReverted = String.Join("", words[i].Reverse());
+		if (words[i] == wordReverted)
 		{
-			return w;
+			return words[i];
 		}
 	}
 
 	return "";
 }
+
 Console.WriteLine(FirstPalindrome(["abc", "car", "racecar", "ada", "cool"]));
+Console.WriteLine(FirstPalindrome(["abc", "car", "ada", "racecar", "cool"]));
 
 // Prestemos atenção na complexidade de se usar reverse versus duplo ponteiro
 // Para usar reverse precisamos salvar uma nova palavra na memória, além de precisar percorrer as duas palavras

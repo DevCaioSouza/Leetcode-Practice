@@ -12,7 +12,10 @@
 }
 Console.WriteLine(FirstPalindrome(["abc", "car", "racecar", "ada", "cool"]));
 
-
+// Prestemos atenção na complexidade de se usar reverse versus duplo ponteiro
+// Para usar reverse precisamos salvar uma nova palavra na memória, além de precisar percorrer as duas palavras
+// Usando duplo ponteiro (nas 2 extremidades) temos mais eficiência, pois apenas precisamos percorrer o array uma única vez
+// no caso os ponteiros das pontas vão em direção ao meio
 
 // Maneira alternativa de reverter um array:
 

@@ -1,0 +1,15 @@
+D:\Programação 2024\Leetcode\Leetcode-Practice\Rearrange-Array-Elements\Rearrange-Array-Elements\bin\Debug\net8.0\Rearrange-Array-Elements.exe
+D:\Programação 2024\Leetcode\Leetcode-Practice\Rearrange-Array-Elements\Rearrange-Array-Elements\bin\Debug\net8.0\Rearrange-Array-Elements.deps.json
+D:\Programação 2024\Leetcode\Leetcode-Practice\Rearrange-Array-Elements\Rearrange-Array-Elements\bin\Debug\net8.0\Rearrange-Array-Elements.runtimeconfig.json
+D:\Programação 2024\Leetcode\Leetcode-Practice\Rearrange-Array-Elements\Rearrange-Array-Elements\bin\Debug\net8.0\Rearrange-Array-Elements.dll
+D:\Programação 2024\Leetcode\Leetcode-Practice\Rearrange-Array-Elements\Rearrange-Array-Elements\bin\Debug\net8.0\Rearrange-Array-Elements.pdb
+D:\Programação 2024\Leetcode\Leetcode-Practice\Rearrange-Array-Elements\Rearrange-Array-Elements\obj\Debug\net8.0\Rearrange-Array-Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação 2024\Leetcode\Leetcode-Practice\Rearrange-Array-Elements\Rearrange-Array-Elements\obj\Debug\net8.0\Rearrange-Array-Elements.AssemblyInfoInputs.cache
+D:\Programação 2024\Leetcode\Leetcode-Practice\Rearrange-Array-Elements\Rearrange-Array-Elements\obj\Debug\net8.0\Rearrange-Array-Elements.AssemblyInfo.cs
+D:\Programação 2024\Leetcode\Leetcode-Practice\Rearrange-Array-Elements\Rearrange-Array-Elements\obj\Debug\net8.0\Rearrange-Array-Elements.csproj.CoreCompileInputs.cache
+D:\Programação 2024\Leetcode\Leetcode-Practice\Rearrange-Array-Elements\Rearrange-Array-Elements\obj\Debug\net8.0\Rearrange-Array-Elements.sourcelink.json
+D:\Programação 2024\Leetcode\Leetcode-Practice\Rearrange-Array-Elements\Rearrange-Array-Elements\obj\Debug\net8.0\Rearrange-Array-Elements.dll
+D:\Programação 2024\Leetcode\Leetcode-Practice\Rearrange-Array-Elements\Rearrange-Array-Elements\obj\Debug\net8.0\refint\Rearrange-Array-Elements.dll
+D:\Programação 2024\Leetcode\Leetcode-Practice\Rearrange-Array-Elements\Rearrange-Array-Elements\obj\Debug\net8.0\Rearrange-Array-Elements.pdb
+D:\Programação 2024\Leetcode\Leetcode-Practice\Rearrange-Array-Elements\Rearrange-Array-Elements\obj\Debug\net8.0\Rearrange-Array-Elements.genruntimeconfig.cache
+D:\Programação 2024\Leetcode\Leetcode-Practice\Rearrange-Array-Elements\Rearrange-Array-Elements\obj\Debug\net8.0\ref\Rearrange-Array-Elements.dll

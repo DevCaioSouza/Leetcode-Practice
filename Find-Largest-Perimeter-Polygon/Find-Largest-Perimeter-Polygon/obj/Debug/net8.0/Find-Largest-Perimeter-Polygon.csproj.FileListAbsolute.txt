@@ -1,0 +1,15 @@
+D:\Programação 2024\Leetcode\Leetcode-Practice\Find-Largest-Perimeter-Polygon\Find-Largest-Perimeter-Polygon\bin\Debug\net8.0\Find-Largest-Perimeter-Polygon.exe
+D:\Programação 2024\Leetcode\Leetcode-Practice\Find-Largest-Perimeter-Polygon\Find-Largest-Perimeter-Polygon\bin\Debug\net8.0\Find-Largest-Perimeter-Polygon.deps.json
+D:\Programação 2024\Leetcode\Leetcode-Practice\Find-Largest-Perimeter-Polygon\Find-Largest-Perimeter-Polygon\bin\Debug\net8.0\Find-Largest-Perimeter-Polygon.runtimeconfig.json
+D:\Programação 2024\Leetcode\Leetcode-Practice\Find-Largest-Perimeter-Polygon\Find-Largest-Perimeter-Polygon\bin\Debug\net8.0\Find-Largest-Perimeter-Polygon.dll
+D:\Programação 2024\Leetcode\Leetcode-Practice\Find-Largest-Perimeter-Polygon\Find-Largest-Perimeter-Polygon\bin\Debug\net8.0\Find-Largest-Perimeter-Polygon.pdb
+D:\Programação 2024\Leetcode\Leetcode-Practice\Find-Largest-Perimeter-Polygon\Find-Largest-Perimeter-Polygon\obj\Debug\net8.0\Find-Largest-Perimeter-Polygon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação 2024\Leetcode\Leetcode-Practice\Find-Largest-Perimeter-Polygon\Find-Largest-Perimeter-Polygon\obj\Debug\net8.0\Find-Largest-Perimeter-Polygon.AssemblyInfoInputs.cache
+D:\Programação 2024\Leetcode\Leetcode-Practice\Find-Largest-Perimeter-Polygon\Find-Largest-Perimeter-Polygon\obj\Debug\net8.0\Find-Largest-Perimeter-Polygon.AssemblyInfo.cs
+D:\Programação 2024\Leetcode\Leetcode-Practice\Find-Largest-Perimeter-Polygon\Find-Largest-Perimeter-Polygon\obj\Debug\net8.0\Find-Largest-Perimeter-Polygon.csproj.CoreCompileInputs.cache
+D:\Programação 2024\Leetcode\Leetcode-Practice\Find-Largest-Perimeter-Polygon\Find-Largest-Perimeter-Polygon\obj\Debug\net8.0\Find-Largest-Perimeter-Polygon.sourcelink.json
+D:\Programação 2024\Leetcode\Leetcode-Practice\Find-Largest-Perimeter-Polygon\Find-Largest-Perimeter-Polygon\obj\Debug\net8.0\Find-Largest-Perimeter-Polygon.dll
+D:\Programação 2024\Leetcode\Leetcode-Practice\Find-Largest-Perimeter-Polygon\Find-Largest-Perimeter-Polygon\obj\Debug\net8.0\refint\Find-Largest-Perimeter-Polygon.dll
+D:\Programação 2024\Leetcode\Leetcode-Practice\Find-Largest-Perimeter-Polygon\Find-Largest-Perimeter-Polygon\obj\Debug\net8.0\Find-Largest-Perimeter-Polygon.pdb
+D:\Programação 2024\Leetcode\Leetcode-Practice\Find-Largest-Perimeter-Polygon\Find-Largest-Perimeter-Polygon\obj\Debug\net8.0\Find-Largest-Perimeter-Polygon.genruntimeconfig.cache
+D:\Programação 2024\Leetcode\Leetcode-Practice\Find-Largest-Perimeter-Polygon\Find-Largest-Perimeter-Polygon\obj\Debug\net8.0\ref\Find-Largest-Perimeter-Polygon.dll

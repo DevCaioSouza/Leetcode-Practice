@@ -1,0 +1,15 @@
+D:\Programação 2024\Leetcode\Leetcode-Practice\least-number-unique-integers\least-number-unique-integers\bin\Debug\net8.0\least-number-unique-integers.exe
+D:\Programação 2024\Leetcode\Leetcode-Practice\least-number-unique-integers\least-number-unique-integers\bin\Debug\net8.0\least-number-unique-integers.deps.json
+D:\Programação 2024\Leetcode\Leetcode-Practice\least-number-unique-integers\least-number-unique-integers\bin\Debug\net8.0\least-number-unique-integers.runtimeconfig.json
+D:\Programação 2024\Leetcode\Leetcode-Practice\least-number-unique-integers\least-number-unique-integers\bin\Debug\net8.0\least-number-unique-integers.dll
+D:\Programação 2024\Leetcode\Leetcode-Practice\least-number-unique-integers\least-number-unique-integers\bin\Debug\net8.0\least-number-unique-integers.pdb
+D:\Programação 2024\Leetcode\Leetcode-Practice\least-number-unique-integers\least-number-unique-integers\obj\Debug\net8.0\least-number-unique-integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação 2024\Leetcode\Leetcode-Practice\least-number-unique-integers\least-number-unique-integers\obj\Debug\net8.0\least-number-unique-integers.AssemblyInfoInputs.cache
+D:\Programação 2024\Leetcode\Leetcode-Practice\least-number-unique-integers\least-number-unique-integers\obj\Debug\net8.0\least-number-unique-integers.AssemblyInfo.cs
+D:\Programação 2024\Leetcode\Leetcode-Practice\least-number-unique-integers\least-number-unique-integers\obj\Debug\net8.0\least-number-unique-integers.csproj.CoreCompileInputs.cache
+D:\Programação 2024\Leetcode\Leetcode-Practice\least-number-unique-integers\least-number-unique-integers\obj\Debug\net8.0\least-number-unique-integers.sourcelink.json
+D:\Programação 2024\Leetcode\Leetcode-Practice\least-number-unique-integers\least-number-unique-integers\obj\Debug\net8.0\least-number-unique-integers.dll
+D:\Programação 2024\Leetcode\Leetcode-Practice\least-number-unique-integers\least-number-unique-integers\obj\Debug\net8.0\refint\least-number-unique-integers.dll
+D:\Programação 2024\Leetcode\Leetcode-Practice\least-number-unique-integers\least-number-unique-integers\obj\Debug\net8.0\least-number-unique-integers.pdb
+D:\Programação 2024\Leetcode\Leetcode-Practice\least-number-unique-integers\least-number-unique-integers\obj\Debug\net8.0\least-number-unique-integers.genruntimeconfig.cache
+D:\Programação 2024\Leetcode\Leetcode-Practice\least-number-unique-integers\least-number-unique-integers\obj\Debug\net8.0\ref\least-number-unique-integers.dll

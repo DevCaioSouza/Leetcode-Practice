@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("least-number-unique-integers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29525a6bf4b674886d3c3248c1bb0610c067f915")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8b1e7975ff9e40916333ad1ec6ca92762f03edc")]
 [assembly: System.Reflection.AssemblyProductAttribute("least-number-unique-integers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("least-number-unique-integers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+D:\Programação 2024\Leetcode\Leetcode-Practice\Missing-Number-268\Missing-Number-268\bin\Debug\net8.0\Missing-Number-268.exe
+D:\Programação 2024\Leetcode\Leetcode-Practice\Missing-Number-268\Missing-Number-268\bin\Debug\net8.0\Missing-Number-268.deps.json
+D:\Programação 2024\Leetcode\Leetcode-Practice\Missing-Number-268\Missing-Number-268\bin\Debug\net8.0\Missing-Number-268.runtimeconfig.json
+D:\Programação 2024\Leetcode\Leetcode-Practice\Missing-Number-268\Missing-Number-268\bin\Debug\net8.0\Missing-Number-268.dll
+D:\Programação 2024\Leetcode\Leetcode-Practice\Missing-Number-268\Missing-Number-268\bin\Debug\net8.0\Missing-Number-268.pdb
+D:\Programação 2024\Leetcode\Leetcode-Practice\Missing-Number-268\Missing-Number-268\obj\Debug\net8.0\Missing-Number-268.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação 2024\Leetcode\Leetcode-Practice\Missing-Number-268\Missing-Number-268\obj\Debug\net8.0\Missing-Number-268.AssemblyInfoInputs.cache
+D:\Programação 2024\Leetcode\Leetcode-Practice\Missing-Number-268\Missing-Number-268\obj\Debug\net8.0\Missing-Number-268.AssemblyInfo.cs
+D:\Programação 2024\Leetcode\Leetcode-Practice\Missing-Number-268\Missing-Number-268\obj\Debug\net8.0\Missing-Number-268.csproj.CoreCompileInputs.cache
+D:\Programação 2024\Leetcode\Leetcode-Practice\Missing-Number-268\Missing-Number-268\obj\Debug\net8.0\Missing-Number-268.sourcelink.json
+D:\Programação 2024\Leetcode\Leetcode-Practice\Missing-Number-268\Missing-Number-268\obj\Debug\net8.0\Missing-Number-268.dll
+D:\Programação 2024\Leetcode\Leetcode-Practice\Missing-Number-268\Missing-Number-268\obj\Debug\net8.0\refint\Missing-Number-268.dll
+D:\Programação 2024\Leetcode\Leetcode-Practice\Missing-Number-268\Missing-Number-268\obj\Debug\net8.0\Missing-Number-268.pdb
+D:\Programação 2024\Leetcode\Leetcode-Practice\Missing-Number-268\Missing-Number-268\obj\Debug\net8.0\Missing-Number-268.genruntimeconfig.cache
+D:\Programação 2024\Leetcode\Leetcode-Practice\Missing-Number-268\Missing-Number-268\obj\Debug\net8.0\ref\Missing-Number-268.dll
